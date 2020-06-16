@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dfedace-f98b-4474-b35f-65b4a9ba8ac8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1adRnr7K1kDSz57G4Ky7leREu6f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.main.dart">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/web/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/web/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/web/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/web/main.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Dart Command Line App.main.dart" />
+      <item itemvalue="Flutter.main.dart" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dfedace-f98b-4474-b35f-65b4a9ba8ac8" name="Default Changelist" comment="" />
+      <created>1587063653395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587063653395</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587065207183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587065207183" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1587065191255">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1587065191255" />
+    <state width="1410" height="441" key="GridCell.Tab.0.bottom" timestamp="1587069672584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1410" height="441" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587069672584" />
+    <state width="1410" height="441" key="GridCell.Tab.0.center" timestamp="1587069672584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1410" height="441" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587069672584" />
+    <state width="1410" height="441" key="GridCell.Tab.0.left" timestamp="1587069672584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1410" height="441" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587069672584" />
+    <state width="1410" height="441" key="GridCell.Tab.0.right" timestamp="1587069672584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1410" height="441" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587069672584" />
+    <state x="5" y="150" width="1118" height="653" key="new project wizard" timestamp="1587320890862">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="5" y="150" width="1118" height="653" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587320890862" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/web/main.dart</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/web/main.dart</url>
+          <line>3</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
